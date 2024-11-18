@@ -18,8 +18,13 @@ project link-https://673b0416437d080bbe705da8--totion.netlify.app/
 
 # FeaTures
 
-=>User Sign-Up and Sign-In. , 
-=>Create and Manage Documents. ,
-=>Rich Text Editing. ,
-=>Search Documents.  
+1. User Sign-Up and Sign-In.
+2. Create and Manage Documents.
+3. Rich Text Editing.
+4. Search Documents.
+
+
+
+
+
 
